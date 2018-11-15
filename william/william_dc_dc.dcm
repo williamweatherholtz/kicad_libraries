@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP P78E05-1000
+D Vin: 8V - 36V, 1A max, 93% eff, 5V fixed out
+$ENDCMP
+#
+$CMP VX7805-500
+D Vin: 6.5V - 36V, 500mA max, 90% eff, 5V fixed out
+$ENDCMP
+#
+#End Doc Library

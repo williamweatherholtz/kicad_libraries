@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC-4727JR
+D 4 digit 7 segment  yellow LED, common cathode
+K display LED 7-segment
+F http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12YWA.pdf
+$ENDCMP
+#
+#End Doc Library
