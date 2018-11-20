@@ -1,4 +1,8 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
+<<<<<<< HEAD
+=======
+# Format documentation: http://kicad-pcb.org/help/file-formats/
+>>>>>>> df150e4092d3144ad22aadeb1d81d168abc82dd9
 
 # Temporary files
 *.000
@@ -8,6 +12,13 @@
 *~
 _autosave-*
 *.tmp
+<<<<<<< HEAD
+=======
+*-cache.lib
+*-rescue.lib
+*-save.pro
+*-save.kicad_pcb
+>>>>>>> df150e4092d3144ad22aadeb1d81d168abc82dd9
 
 # Netlist files (exported from Eeschema)
 *.net
