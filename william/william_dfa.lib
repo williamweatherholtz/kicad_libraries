@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Fiducial
+#
+DEF Fiducial FID 0 0 Y N 1 F N
+F0 "FID" 0 150 50 H V C CNN
+F1 "Fiducial" 0 -150 50 H V C CNN
+F2 "" 0 150 50 H I C CNN
+F3 "" 0 150 50 H I C CNN
+$FPLIST
+ fiducial*
+$ENDFPLIST
+DRAW
+C 0 0 50 1 1 0 f
+P 2 1 1 0 -100 0 100 0 N
+P 2 1 1 0 0 100 0 -100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

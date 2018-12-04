@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8220
+D AD 8220 Instrumentation Amplifier
+K Instrumentation Amp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8220.pdf
+$ENDCMP
+#
+#End Doc Library
