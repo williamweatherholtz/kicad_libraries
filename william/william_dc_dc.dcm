@@ -4,6 +4,11 @@ $CMP P78E05-1000
 D Vin: 8V - 36V, 1A max, 93% eff, 5V fixed out
 $ENDCMP
 #
+$CMP STBB1-Axx
+K DC switching 1.6A
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/20/a6/10/e0/63/85/43/c1/DM00037824.pdf/files/DM00037824.pdf/jcr:content/translations/en.DM00037824.pdf
+$ENDCMP
+#
 $CMP VX7805-500
 D Vin: 6.5V - 36V, 500mA max, 90% eff, 5V fixed out
 $ENDCMP
