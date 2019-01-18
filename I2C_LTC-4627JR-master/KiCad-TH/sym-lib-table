@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name PIC_LTC-4627JR_TH-rescue)(type Legacy)(uri ${KIPRJMOD}/PIC_LTC-4627JR_TH-rescue.lib)(options "")(descr ""))
-  (lib (name ltc-4627jr)(type Legacy)(uri ${KIPRJMOD}/library/ltc-4627jr.lib)(options "")(descr ""))
-)

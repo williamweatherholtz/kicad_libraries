@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name LTC-4627JR)(type KiCad)(uri ${KIPRJMOD}/ltc-4627jr.pretty)(options "")(descr ""))
-)
