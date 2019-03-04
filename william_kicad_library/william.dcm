@@ -74,4 +74,10 @@ D Transistor N-JFET (general)
 K njfet n-jfet transistor
 $ENDCMP
 #
+$CMP powerSTEP01
+D 10A stepper driver, with voltage & current modes
+K stepper motor driver high power
+F https://www.st.com/resource/en/datasheet/powerstep01.pdf
+$ENDCMP
+#
 #End Doc Library
