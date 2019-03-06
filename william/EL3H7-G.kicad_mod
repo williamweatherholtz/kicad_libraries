@@ -1,8 +1,0 @@
-(module EL3H7-G (layer F.Cu) (tedit 5BB3C2D6)
-  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value EL3H7-G (at 1.27 -5.08) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-)
