@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADS8887IDRCx
+F http://www.ti.com/lit/ds/symlink/ads8887.pdf
+$ENDCMP
+#
 $CMP MAX11254
 D High SNR 24bit ADC 6MUX
 K adc mux 6 differential 1V8
