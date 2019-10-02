@@ -1,4 +1,4 @@
-(module Phoenix_Contact_1985195 (layer F.Cu) (tedit 5BFC0726)
+(module PTSA_1.5_2_3.5_Z (layer F.Cu) (tedit 5D934AE1)
   (fp_text reference REF** (at 2 5.6) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.07)))
   )
@@ -14,9 +14,13 @@
   (fp_line (start 5.25 -7.3) (end 5.25 4.7) (layer F.SilkS) (width 0.05))
   (fp_circle (center 0 3.1) (end 0.7 3.1) (layer F.SilkS) (width 0.05))
   (fp_circle (center 3.5 3.1) (end 4.2 3.1) (layer F.SilkS) (width 0.05))
+  (fp_line (start -3.377 4.826) (end -3.377 -7.427) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -3.377 -7.427) (end 5.377 -7.4295) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 5.377 4.827) (end -3.377 4.826) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 5.377 -7.4295) (end 5.377 4.827) (layer F.CrtYd) (width 0.05))
   (pad 2 thru_hole circle (at 0 -5) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 3.5 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william/william_termination.3d/PTSA_05_14_25_Z.STEP
+  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTSA_1.5_2_3.5_Z.STEP
     (offset (xyz 5.2 7.3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
