@@ -12,4 +12,10 @@ K connector SD microsd
 F https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1
 $ENDCMP
 #
+$CMP TC2030-IDC
+D Tag Connect 6 pin legged-version
+K tag connect swd jtag program debug
+F http://www.tag-connect.com/Materials/TC2030-IDC.pdf
+$ENDCMP
+#
 #End Doc Library
