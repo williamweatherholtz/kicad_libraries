@@ -1,8 +1,8 @@
-(module mec_small (layer F.Cu) (tedit 5D555E68)
-  (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+(module mec_small (layer F.Cu) (tedit 5DB05010)
+  (fp_text reference G*** (at 0 0) (layer F.Fab) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
-  (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
+  (fp_text value LOGO (at 0.75 0) (layer F.Fab) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
   (fp_poly (pts (xy -1.274989 -1.508334) (xy -1.189811 -1.500142) (xy -1.107879 -1.486748) (xy -1.029469 -1.468325)
@@ -328,5 +328,4 @@
     (xy -1.704268 -0.795871) (xy -1.698674 -0.801991) (xy -1.689108 -0.808938) (xy -1.684472 -0.811617)
     (xy -1.67774 -0.814879) (xy -1.670845 -0.817183) (xy -1.662339 -0.818692) (xy -1.650776 -0.819573)
     (xy -1.634709 -0.819991) (xy -1.612692 -0.820112) (xy -1.610125 -0.820114) (xy -1.58746 -0.82004)) (layer F.SilkS) (width 0.01))
-  (fp_circle (center -0.254 -0.254) (end -0.127 -0.254) (layer F.CrtYd) (width 0.12))
 )
