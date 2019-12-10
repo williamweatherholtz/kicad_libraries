@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WS2813-Mini
+D RGB LED with integrated controller
+K RGB LED addressable
+F http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
