@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LN6206P332MR-G
+D 3v3 ldo 250mA
+F https://datasheet.lcsc.com/szlcsc/1810311908_NATLINEAR-LN6206P332MR-G_C141407.pdf
+$ENDCMP
+#
+#End Doc Library
