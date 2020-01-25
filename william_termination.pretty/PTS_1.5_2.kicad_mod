@@ -20,12 +20,12 @@
   (fp_line (start -2.75 5.25) (end -2.75 -5.75) (layer F.CrtYd) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

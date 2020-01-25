@@ -14,7 +14,7 @@
   (pad 1 thru_hole circle (at 18.7452 0) (size 2.032 2.032) (drill 1.5748) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 18.7452 -4.4196) (size 2.032 2.032) (drill 1.5748) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 18.7452 -8.8392) (size 2.032 2.032) (drill 1.5748) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william/william_switches.3d/ELUMEETHQ3C12.STEP
+  (model ${WILLIAM_3D}/william_switches.3dshapes/ELUMEETHQ3C12.STEP
     (offset (xyz 10.15999984741211 4.444999933242798 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

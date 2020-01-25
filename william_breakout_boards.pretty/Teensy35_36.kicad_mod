@@ -132,12 +132,12 @@
   (pad 60 thru_hole circle (at -17.78 4.62) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 61 thru_hole circle (at -15.24 4.62) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 62 thru_hole circle (at -12.7 4.62) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
-  (model "C:/Users/ua18387/kicad_library/william/william_breakout_boards.3d/Teensy 3.5 - 3.6.step"
+  (model "${WILLIAM_3D}/william_breakout_boards.3dshapes/Teensy 3.5 - 3.6.step"
     (offset (xyz -30.5 8.800000000000001 2.54))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
-  (model "C:/Users/ua18387/kicad_library/william/william_breakout_boards.3d/Micro SD card.STEP"
+  (model "${WILLIAM_3D}/william_breakout_boards.3dshapes/Micro SD card.STEP"
     (offset (xyz 37.5 0 5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

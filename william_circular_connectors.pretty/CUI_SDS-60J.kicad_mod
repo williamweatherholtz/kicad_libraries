@@ -32,7 +32,7 @@
   (pad 6 thru_hole circle (at 0 -5) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask))
   (pad Hole np_thru_hole circle (at -7.5 5) (size 2.4 2.4) (drill 2.4) (layers *.Cu *.Mask F.SilkS))
   (pad Hole np_thru_hole circle (at 7.5 5) (size 2.4 2.4) (drill 2.4) (layers *.Cu *.Mask F.SilkS))
-  (model C:/Users/ua18387/kicad_library/william/william_circular_connectors.3d/CUI_SDS-60J.STEP
+  (model ${WILLIAM_3D}/william_circular_connectors.3dshapes/CUI_SDS-60J.STEP
     (offset (xyz 0 -12.7 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

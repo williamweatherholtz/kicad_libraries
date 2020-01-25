@@ -22,17 +22,17 @@
   (pad 2 thru_hole circle (at 5.08 -5.08) (size 2.2 2.2) (drill 1.3) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 10.16 0) (size 2.2 2.2) (drill 1.3) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 10.16 -5.08) (size 2.2 2.2) (drill 1.3) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/pxc_1706714_02_ZFKDS-1-5-W-5-08_3D.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/pxc_1706714_02_ZFKDS-1-5-W-5-08_3D.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/pxc_1706714_02_ZFKDS-1-5-W-5-08_3D.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/pxc_1706714_02_ZFKDS-1-5-W-5-08_3D.STEP
     (offset (xyz 5.08 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/pxc_1706714_02_ZFKDS-1-5-W-5-08_3D.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/pxc_1706714_02_ZFKDS-1-5-W-5-08_3D.STEP
     (offset (xyz 10.16 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

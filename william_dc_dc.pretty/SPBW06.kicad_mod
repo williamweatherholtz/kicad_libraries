@@ -21,7 +21,7 @@
   (pad 6 thru_hole circle (at 3.81 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 6.35 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 8.89 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william_dc_dc.3d/SPBW06xx.STEP
+  (model ${WILLIAM_3D}/william_dc_dc.3dshapes/SPBW06xx.STEP
     (offset (xyz -8.890000000000001 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

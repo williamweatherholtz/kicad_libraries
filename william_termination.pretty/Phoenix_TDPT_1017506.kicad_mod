@@ -23,32 +23,32 @@
   (pad 5 thru_hole circle (at 20.32 0) (size 2.2 2.2) (drill 1.4) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 20.32 -8.7) (size 2.2 2.2) (drill 1.4) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 15.24 0) (size 2.2 2.2) (drill 1.4) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/Phoenix_TDPT_5.08_block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/Phoenix_TDPT_5.08_block.STEP
     (offset (xyz 2.2 -7.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/Phoenix_TDPT_5.08_block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/Phoenix_TDPT_5.08_block.STEP
     (offset (xyz 7.28 -7.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/Phoenix_TDPT_5.08_side.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/Phoenix_TDPT_5.08_side.STEP
     (offset (xyz 22.22 -7.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/Phoenix_TDPT_5.08_block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/Phoenix_TDPT_5.08_block.STEP
     (offset (xyz 12.36 -7.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/Phoenix_TDPT_5.08_block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/Phoenix_TDPT_5.08_block.STEP
     (offset (xyz 17.44 -7.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/Phoenix_TDPT_5.08_block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/Phoenix_TDPT_5.08_block.STEP
     (offset (xyz 22.52 -7.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

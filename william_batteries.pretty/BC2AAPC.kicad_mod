@@ -18,17 +18,17 @@
   (pad "" np_thru_hole circle (at -26.16 -6.63) (size 3.56 3.56) (drill 3.56) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -13.59) (size 1.524 1.524) (drill 1.17) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.17) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william/william_batteries.3d/BC2AAPC.STEP
+  (model ${WILLIAM_3D}/william_batteries.3dshapes/BC2AAPC.STEP
     (offset (xyz -26.2 6.8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "C:/Users/ua18387/kicad_library/william/william_batteries.3d/Battery AA v6.step"
+  (model "${WILLIAM_3D}/william_batteries.3dshapes/Battery AA v6.step"
     (offset (xyz -1 23.5 8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model "C:/Users/ua18387/kicad_library/william/william_batteries.3d/Battery AA v6.step"
+  (model "${WILLIAM_3D}/william_batteries.3dshapes/Battery AA v6.step"
     (offset (xyz -50 -9.5 8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

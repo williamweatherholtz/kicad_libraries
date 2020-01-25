@@ -14,7 +14,7 @@
   (pad 2 thru_hole circle (at 3.13 -3.13) (size 2.5 2.5) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -3.13 -3.13) (size 2.5 2.5) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -3.13 3.13) (size 2.5 2.5) (drill 1.7) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william/william_termination.3d/5-1634503-1.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/5-1634503-1.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

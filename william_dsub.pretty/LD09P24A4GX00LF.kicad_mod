@@ -26,7 +26,7 @@
   (pad ~ thru_hole circle (at 17.975 0) (size 4 4) (drill 3.1) (layers *.Cu *.Mask))
   (pad ~ thru_hole circle (at -7.015 0) (size 4 4) (drill 3.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 -1.42) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william/william_dsub.3d/LD09P24A4GX00LF.stp
+  (model ${WILLIAM_3D}/william_dsub.3dshapes/LD09P24A4GX00LF.stp
     (offset (xyz 5.48 0 6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))

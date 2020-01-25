@@ -17,7 +17,7 @@
   (pad 4 thru_hole circle (at -2.193 -5.0438) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 2.193 -5.0438) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 0 -2) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william/william_circular_connectors.3d/CUI_SD-60BV.STEP
+  (model ${WILLIAM_3D}/william_circular_connectors.3dshapes/CUI_SD-60BV.STEP
     (offset (xyz 0 0 15.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

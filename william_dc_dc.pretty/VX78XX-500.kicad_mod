@@ -13,7 +13,7 @@
   (pad 1 thru_hole rect (at -2.54 1.625) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 1.625) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.54 1.625) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william/william_dc_dc.3d/CUI_INC_VX7805-500.step
+  (model ${WILLIAM_3D}/william_dc_dc.3dshapes/CUI_INC_VX7805-500.step
     (offset (xyz 0 3.8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

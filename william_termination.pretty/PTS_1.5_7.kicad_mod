@@ -45,37 +45,37 @@
   (pad 5 thru_hole circle (at 20 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 25 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 30 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 10 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 15 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 20 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 25 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTS_1.5_Block.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 30 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

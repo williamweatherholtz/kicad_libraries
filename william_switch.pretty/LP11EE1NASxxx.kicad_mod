@@ -19,7 +19,7 @@
   (pad L1 thru_hole circle (at 6.35 -3.81) (size 1.524 1.524) (drill 0.7874) (layers *.Cu *.Mask))
   (pad LC thru_hole circle (at 6.35 -6.35) (size 1.524 1.524) (drill 0.7874) (layers *.Cu *.Mask))
   (pad L2 thru_hole circle (at 6.35 -8.89) (size 1.524 1.524) (drill 0.7874) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william/william_switches.3d/LP11EE1NASxxx.STEP
+  (model ${WILLIAM_3D}/william_switches.3dshapes/LP11EE1NASxxx.STEP
     (offset (xyz 7.264399890899657 6.349999904632568 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

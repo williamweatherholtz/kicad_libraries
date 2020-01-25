@@ -32,7 +32,7 @@
   (pad 1 thru_hole circle (at 5.26 1.46) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at -5.24 -3.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -1.74 1.46) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/william_termination.3d/PTSA_1.5_4_3.5_Z.STEP
+  (model ${WILLIAM_3D}/william_termination.3dshapes/PTSA_1.5_4_3.5_Z.STEP
     (offset (xyz 5.26 -1.46 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

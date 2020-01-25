@@ -40,7 +40,7 @@
   (pad B thru_hole circle (at 0 10.5) (size 2 2) (drill 1.3) (layers *.Cu *.Mask))
   (pad C thru_hole circle (at 5 10.5) (size 2 2) (drill 1.3) (layers *.Cu *.Mask))
   (pad ~ thru_hole oval (at 7.4 0) (size 2.6 4.8) (drill oval 2 4.2) (layers *.Cu *.Mask))
-  (model C:/Users/ua18387/kicad_library/3d/PEC16-4X15F-NXXXX.STEP
+  (model ${WILLIAM_3D}/3d/PEC16-4X15F-NXXXX.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

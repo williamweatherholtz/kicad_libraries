@@ -27,7 +27,7 @@
   (pad 14 thru_hole circle (at -3.81 -5) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at -6.35 -5) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at -8.89 -5) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model "C:/Users/ua18387/kicad_library/3d/User Library-ltc-4727jr-1/User Library-ltc-4727jr-1.STEP"
+  (model "${WILLIAM_3D}/3d/User Library-ltc-4727jr-1/User Library-ltc-4727jr-1.STEP"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -58,12 +58,12 @@
   (fp_line (start -8.199999 -5.699999) (end -8.2 -9.6) (layer F.CrtYd) (width 0.12))
   (pad 1 smd rect (at 0 -14.5) (size 4.2 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 14.5) (size 4.2 3) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/ua18387/kicad_library/william_batteries.3d/CR2032.stp
+  (model ${WILLIAM_3D}/william_batteries.3dshapes/CR2032.stp
     (offset (xyz 0 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )
-  (model :3D:william_batteries.3d/CR2032-BS-6-1.STEP
+  (model ${WILLIAM_3D}/william_batteries.3d/CR2032-BS-6-1.STEP
     (offset (xyz 0 0 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
