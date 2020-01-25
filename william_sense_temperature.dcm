@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX31865ATP
+D TQFN RTD PT100 to PT1000
+K RTD
+F https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -4,6 +4,11 @@ $CMP P78E05-1000
 D Vin: 8V - 36V, 1A max, 93% eff, 5V fixed out
 $ENDCMP
 #
+$CMP QX2304L33F
+D 0.9v - 5v VDC input, 3V3 fixed output, 800mA max
+F https://datasheet.lcsc.com/szlcsc/QX-Micro-Devices-QX2304L33F_C219039.pdf
+$ENDCMP
+#
 $CMP STBB1-Axx
 K DC switching 1.6A
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/20/a6/10/e0/63/85/43/c1/DM00037824.pdf/files/DM00037824.pdf/jcr:content/translations/en.DM00037824.pdf
