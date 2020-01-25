@@ -1,4 +1,4 @@
-(module Crystal_SMD_5032-2Pin_5.0x3.2mm (layer F.Cu) (tedit 5E2C465F)
+(module Crystal_SMD_5032-2Pin_5.0x3.2mm (layer F.Cu) (tedit 5E2CC250)
   (descr "SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package")
   (tags "SMD SMT crystal")
   (attr smd)
@@ -33,7 +33,7 @@
   (fp_circle (center 0 0) (end 0.093333 0) (layer F.Adhes) (width 0.186667))
   (pad 1 smd rect (at -1.85 0) (size 2 2.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.85 0) (size 2 2.4) (layers F.Cu F.Paste F.Mask))
-  (model ${WILLIAM_3D}/william_crystal.3d/445-CRYTAL-SMD.STEP
+  (model ${WILLIAM_3D}/william_crystal.3dshapes/445-CRYTAL-SMD.STEP
     (offset (xyz 6.35 -1.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

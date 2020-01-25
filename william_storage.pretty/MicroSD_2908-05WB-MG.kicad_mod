@@ -1,4 +1,4 @@
-(module MicroSD_2908-05WB-MG (layer F.Cu) (tedit 5E2C5378)
+(module MicroSD_2908-05WB-MG (layer F.Cu) (tedit 5E2CC096)
   (attr smd)
   (fp_text reference REF** (at 1.9 -5.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -37,12 +37,12 @@
   (pad 9 smd rect (at 6.89 10.3) (size 1.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 8.85 -2.85) (size 1.4 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at -4.66 -3.85) (size 1.4 1.9) (layers F.Cu F.Paste F.Mask))
-  (model ${WILLIAM_3D}/william_storage.3d/2908-05xx-xx-02.stp
+  (model ${WILLIAM_3D}/william_storage.3dshapes/2908-05xx-xx-02.stp
     (offset (xyz 2 -3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )
-  (model ${WILLIAM_3D}/william_storage.3d/MicroSD.stp
+  (model ${WILLIAM_3D}/william_storage.3dshapes/MicroSD.stp
     (offset (xyz 3 11.5 0.8))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

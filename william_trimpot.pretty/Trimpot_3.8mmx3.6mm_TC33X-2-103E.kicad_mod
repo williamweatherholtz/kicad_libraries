@@ -1,4 +1,4 @@
-(module Trimpot_3.8mmx3.6mm_TC33X-2-103E (layer F.Cu) (tedit 5E2C457C)
+(module Trimpot_3.8mmx3.6mm_TC33X-2-103E (layer F.Cu) (tedit 5E2CC111)
   (descr http://www.bourns.com/docs/Product-Datasheets/TC33.pdf)
   (attr smd)
   (fp_text reference REF** (at 0 -3.54) (layer F.SilkS)
@@ -30,7 +30,7 @@
   (pad 2 smd rect (at 0 -1.45) (size 1.6 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1 1.8) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1 1.8) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask))
-  (model ${WILLIAM_3D}/william_trimpot.3d/TC-33X-2.STEP
+  (model ${WILLIAM_3D}/william_trimpot.3dshapes/TC-33X-2.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -1,4 +1,4 @@
-(module TE_AMP_1-640457-6 (layer F.Cu) (tedit 5E2C51C9)
+(module TE_AMP_1-640457-6 (layer F.Cu) (tedit 5E2CC244)
   (descr "Through hole angled pin header, 1x16, 2.54mm pitch, 6mm pin length, single row")
   (tags "Through hole angled pin header THT 1x16 2.54mm single row")
   (fp_text reference REF** (at 21.32 4.385 270) (layer F.SilkS)
@@ -238,7 +238,7 @@
   (pad 14 thru_hole oval (at -13.97 0 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at -16.51 0 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at -19.05 0 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${WILLIAM_3D}/william_connectors.3d/c-0640457-16-s-3d.STEP
+  (model ${WILLIAM_3D}/william_connectors.3dshapes/c-0640457-16-s-3d.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

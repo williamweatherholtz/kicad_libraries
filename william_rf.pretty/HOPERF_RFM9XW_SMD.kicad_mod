@@ -1,4 +1,4 @@
-(module HOPERF_RFM9XW_SMD (layer F.Cu) (tedit 5E2C4037)
+(module HOPERF_RFM9XW_SMD (layer F.Cu) (tedit 5E2CBBA9)
   (descr "Low Power Long Range Transceiver Module SMD-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)")
   (tags "LoRa Low Power Long Range Transceiver Module")
   (attr smd)
@@ -43,7 +43,7 @@
   (pad 14 smd rect (at 8 -3) (size 2 1) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 8 -5) (size 2 1) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 8 -7) (size 2 1) (layers F.Cu F.Paste F.Mask))
-  (model "${WILLIAM_3D}/william_rf.3d/User Library-RFM96W.STEP"
+  (model "${WILLIAM_3D}/william_rf.3dshapes/User Library-RFM96W.STEP"
     (offset (xyz 8 8 1.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
