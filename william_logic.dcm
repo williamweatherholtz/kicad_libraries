@@ -5,4 +5,14 @@ D Dual-Supply, 8-Bit Signal Translator with Configurable Voltage Supplies and Si
 K Level shifter translator bidirectional
 $ENDCMP
 #
+$CMP NVT2010BQ
+D Dual-Supply, 10-Bit Signal Translator with Configurable Voltage Supplies and Signals Levels, 3-State Outputs and Auto Direction Sensing
+K Level shifter translator bidirectional
+$ENDCMP
+#
+$CMP NVT2010BS
+D Dual-Supply, 10-Bit Signal Translator with Configurable Voltage Supplies and Signals Levels, 3-State Outputs and Auto Direction Sensing
+K Level shifter translator bidirectional
+$ENDCMP
+#
 #End Doc Library
