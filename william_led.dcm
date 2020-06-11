@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP EASV2713RGBA1
+D RGB LED, red/green/blue/anode
+K LED RGB diode
+F ~
+$ENDCMP
+#
 $CMP WS2812B-MINI
 D RGB LED with integrated controller
 K RGB LED NeoPixel addressable

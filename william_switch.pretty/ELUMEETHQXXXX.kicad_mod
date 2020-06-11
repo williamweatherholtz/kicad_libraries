@@ -1,4 +1,4 @@
-(module ELUMEETHQXXXX (layer F.Cu) (tedit 5ED7F64F)
+(module ELUMEETHQXXXX (layer F.Cu) (tedit 5EDFE85A)
   (fp_text reference REF** (at 22.86 -9.525) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -12,7 +12,7 @@
   (fp_line (start 20.0136 -10.2346) (end -1.9 -10.2346) (layer F.CrtYd) (width 0.15))
   (fp_line (start 20.0136 -10.2346) (end 20.0136 1.4) (layer F.CrtYd) (width 0.15))
   (fp_line (start -1.9136 1.4346) (end 20.0136 1.4) (layer F.CrtYd) (width 0.15))
-  (fp_line (start -1.9 -6.5) (end -13.3 -6.5) (layer F.CrtYd) (width 0.12))
+  (fp_line (start -1.9 -6.5) (end -13.4 -6.5) (layer F.CrtYd) (width 0.12))
   (fp_line (start -13.4 -6.5) (end -13.4 -2.8) (layer F.CrtYd) (width 0.12))
   (fp_line (start -13.4 -2.8) (end -1.9 -2.8) (layer F.CrtYd) (width 0.12))
   (fp_line (start -1.9 -6.5) (end -1.9 -10.2346) (layer F.CrtYd) (width 0.12))
@@ -23,7 +23,7 @@
   (pad 2 thru_hole circle (at 18.7452 -4.4196) (size 2.032 2.032) (drill 1.5748) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 18.7452 -8.8392) (size 2.032 2.032) (drill 1.5748) (layers *.Cu *.Mask))
   (model ${WILLIAM_3D}/william_switch.3dshapes/ELUMEETHQ3C12.STeP
-    (offset (xyz 10.15999984741211 4.444999933242798 0))
+    (offset (xyz 10.16 4.445 -0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )
