@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AL5809-60P1-7
+D Temperature Compensated Constant Current LED IC, D-PAK
+K Constant Current LED Driver IC
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005413A.pdf
+$ENDCMP
+#
 $CMP EASV2713RGBA1
 D RGB LED, red/green/blue/anode
 K LED RGB diode
