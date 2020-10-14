@@ -12,10 +12,10 @@ K transistor NMOS N-MOS N-MOSFET
 F https://www.infineon.com/dgdl/irf7458pbf.pdf?fileId=5546d462533600a4015355fecb231bfe
 $ENDCMP
 #
-$CMP PSMN1R8
+$CMP PSMN1R0-30YLC,115
 D N-MOSFET transistor,  Low Rds_on, low gate charge, high power
 K transistor NMOS N-MOS N-MOSFET
-F https://assets.nexperia.com/documents/data-sheet/PSMN1R8-40YLC.pdf
+F https://assets.nexperia.com/documents/data-sheet/PSMN1R0-30YLC.pdf
 $ENDCMP
 #
 #End Doc Library
