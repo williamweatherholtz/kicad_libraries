@@ -6,6 +6,10 @@ K connector SD microsd
 F https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?https://www.digikey.com/product-detail/en/1051620101/WM12823CT-ND/5823220/?itemSeq=328202674
 $ENDCMP
 #
+$CMP MT25QL128ABA1EW9
+F https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-a/mt25q_qlhs_l_128_aba_0.pdf
+$ENDCMP
+#
 $CMP Micro_SD_Card_Det_Hirose_DM3AT
 D Micro SD Card Socket with card detection pins
 K connector SD microsd

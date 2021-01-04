@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BH2220FVM
+D 3 CHANNEL DAC
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/data_converter/dac/bh2219fvm-e.pdf
+$ENDCMP
+#
 $CMP BU2507FV-E2
 F https://fscdn.rohm.com/en/products/databook/datasheet/ic/data_converter/dac/bu2508fv-e.pdf
 $ENDCMP
