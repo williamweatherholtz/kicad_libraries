@@ -33,21 +33,21 @@
   (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 180))
   )
   (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 5 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 180))
   )
   (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 10 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 180))
   )
   (model ${WILLIAM_3D}/william_termination.3dshapes/PTS_1.5_Block.STEP
     (offset (xyz 15 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 180))
   )
 )

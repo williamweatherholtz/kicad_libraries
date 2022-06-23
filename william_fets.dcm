@@ -18,4 +18,10 @@ K transistor NMOS N-MOS N-MOSFET
 F https://assets.nexperia.com/documents/data-sheet/PSMN1R0-30YLC.pdf
 $ENDCMP
 #
+$CMP SIRA24DP
+D N-MOSFET transistor,  Very Low RDS(ON) at 2.5V VGS, low gate charge
+K transistor NMOS N-MOS N-MOSFET
+F http://aosmd.com/res/data_sheets/AON7524.pdf
+$ENDCMP
+#
 #End Doc Library
