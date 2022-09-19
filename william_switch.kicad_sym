@@ -51,7 +51,7 @@
       )
     )
     (symbol "CFP2-1FC4-AW‎_1_1"
-      (pin passive line (at 5.08 2.54 180) (length 2.54)
+      (pin passive line (at 5.08 -2.54 180) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
@@ -59,7 +59,7 @@
         (name "B" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 5.08 -2.54 180) (length 2.54)
+      (pin passive line (at 5.08 2.54 180) (length 2.54)
         (name "C" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )

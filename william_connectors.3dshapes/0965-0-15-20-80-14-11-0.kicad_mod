@@ -1,0 +1,23 @@
+(footprint "0965-0-15-20-80-14-11-0" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 6 -3 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9b10a341-bc1a-4d17-9475-d84d6f2b1ae9)
+  )
+  (fp_text value "0965-0-15-20-80-14-11-0" (at 0 1 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 57b78e5d-e4e4-46e7-bc5f-3f881297819d)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 947c4351-524b-4948-b99d-fd2177eb0b0c)
+  )
+  (pad "1" smd circle (at 0 0) (size 1.83 1.83) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2b53395f-aff7-4582-b1cc-8b19b5f83d9f))
+  (model "C:/kicad_libraries/william_connectors.3dshapes/0965-0-15-20-80-14-11-0.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+)
