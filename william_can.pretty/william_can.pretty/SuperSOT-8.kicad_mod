@@ -1,0 +1,19 @@
+(footprint "SuperSOT-8" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "8-pin SuperSOT package, http://www.icbank.com/icbank_data/semi_package/ssot8_dim.pdf")
+  (tags "SuperSOT-8 SSOT-8")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -2.95) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 02d55ca7-dec6-4df4-88c0-7375ebfad1c6)
+  )
+  (fp_text value "SuperSOT-8" (at 0 2.95) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0581f30b-3c49-4a94-92d6-4b7f32ecbebc)
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SuperSOT-8.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
